@@ -12,7 +12,8 @@ The application uses Streamlit to create the GUI and Langchain to deal with the 
 
 To install the repository, please clone this repository and install the requirements:
 
-```bash
+```bash<img width="960" alt="RAG Capture 3" src="https://github.com/user-attachments/assets/ec67fda9-f6d6-4113-834f-39537ae0712b">
+
   pip install -r requirements.txt
 
 ```
@@ -27,6 +28,10 @@ To use the application, run the main.py file with the streamlit CLI (after havin
 ```bash
 streamlit run app.py
 ```
+## Screenshots
+
+Once the app is run through streamlit it will look like this:
+<img width="960" alt="RAG Capture 3" src="https://github.com/user-attachments/assets/8ccc1445-a610-41d2-8c11-7f9fb53efe47">
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/timmy11803)
